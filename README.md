@@ -9,3 +9,4 @@
 # 运行环境：Windows
 # GPU：4060
 # CPU：AMD 7945HX
+# 原始数据链接：https://www.kaggle.com/datasets/abdullah0a/world-happiness-data-2024-explore-life
