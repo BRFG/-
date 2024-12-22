@@ -11,3 +11,4 @@
 # CPU：AMD 7945HX
 # 原始数据链接：https://www.kaggle.com/datasets/abdullah0a/world-happiness-data-2024-explore-life
 # 处理后数据：Filled_World_Happiness_Report_2024.csv
+# 复现只需按顺序运行ipynb代码块
